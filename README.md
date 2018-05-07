@@ -1,8 +1,8 @@
-# Final Project Title
+# Voice Command
 ## Grace Stenger
-## Date
+## May 6, 2018
 
-## Installation
+## Installation and Set-Up
 To install all requirements, type the following into terminal:
 pip install -r requirements.txt
 
