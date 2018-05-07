@@ -1,0 +1,3 @@
+PyAutoGUI==0.9.36
+gtts==2.0.0
+weather==0.9.1
